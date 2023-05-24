@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/arun-karthick0/review-slider/static/css/main.9cfa7744.css",
+    "main.js": "/arun-karthick0/review-slider/static/js/main.80416dcd.js",
+    "static/js/787.8948603f.chunk.js": "/arun-karthick0/review-slider/static/js/787.8948603f.chunk.js",
+    "index.html": "/arun-karthick0/review-slider/index.html",
+    "main.9cfa7744.css.map": "/arun-karthick0/review-slider/static/css/main.9cfa7744.css.map",
+    "main.80416dcd.js.map": "/arun-karthick0/review-slider/static/js/main.80416dcd.js.map",
+    "787.8948603f.chunk.js.map": "/arun-karthick0/review-slider/static/js/787.8948603f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9cfa7744.css",
+    "static/js/main.80416dcd.js"
+  ]
+}
